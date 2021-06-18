@@ -1,6 +1,6 @@
 # TestGoogleAuth
-**Using HTML, CSS and little bit of JS to create a landing page template inherited with a beautiful video**
+**This is a sample Node.js Google Auth App Built with Passport**
 # Screenshots
-![Image of Landing Page](capture.PNG)
-![Image of Menu](capture1.PNG)
-![Image of Button](capture2.PNG)
+![Image_home](capture.PNG)
+![Image_googleLogin](capture1.PNG)
+![Image_profile](capture2.PNG)
